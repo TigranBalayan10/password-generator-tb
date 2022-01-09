@@ -1,4 +1,4 @@
-# Password Generatot
+# Password Generator
 
 ## Purpose
 A website with functionality of generating passwords.
