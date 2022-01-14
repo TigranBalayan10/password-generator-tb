@@ -39,7 +39,7 @@ function generatePassword() {
       return generatePassword();
     }
   }
-  
+
   // asked for character types to include in the password
 
   var characterPool = [];
@@ -66,6 +66,18 @@ function generatePassword() {
     alert("You need to choose at least one security option!");
     return generatePassword();
   }
+  
+    
+  var password = '';
+
+  for (var i = 0; i <= passwordLength; i++) {
+    password += getRandomCharFromArray(characterPool);
+  }
+
+  passwordLength = 0;
+
+  // password
+  return password;
 };
 
 
