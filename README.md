@@ -1,5 +1,8 @@
 # Password Generator
 
+## Screenshot
+![Mockup Screenshot](./mockup.jpg)
+
 ## Purpose
 A website with functionality of generating passwords.
 
@@ -7,7 +10,7 @@ A website with functionality of generating passwords.
 * JavaScript
 
 ## Website
-/////
+https://tigranbalayan10.github.io/password-generator-tb/
 
 ## Contribution
 Made by Tigran Balayan
